@@ -1,0 +1,20 @@
+    It is home office project that deals with immigrations/visas process. At the end
+    of the day, there are entitites like person,identity,address etc
+    which flow through their system. At the moment everything is in java though some
+    repositories had been created for porting stuff to python
+    The project was supposed to be porting java apis to python with view making 
+    changes to existing models and deploying on aws using lambda functions etc.
+    But the project has gone on back burner. I did some work, working on few models,
+    creating data generators for them and creating web apis or so called the reader 
+    service.
+
+    But now I am being asked to do java work which is not something I had planned or
+    interested in.
+
+
+    Excuse me if my eyes are bit droopy and my voice bit nasal, as I am quite sick 
+    today, likely suffering from covid. I came very close to securing role with 
+    jpmorgan, reached the 3rd round
+    but did not work out in the end. I had taken the online programming test as well
+    for that and felt bit bad and sad when it 
+    But did not want to reschedule the interview 
